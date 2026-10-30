@@ -37,8 +37,3 @@ To run locally:
 pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
-
-## About me
-
-Ali Sher Afzaal, MSci Pharmaceutical Chemistry student, University of Huddersfield. Seeking a 12-month industrial placement from September 2027.
-Certifications: freeCodeCamp *Scientific Computing with Python*
